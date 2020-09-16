@@ -1,0 +1,11 @@
+dependencies:
+    - jupyter
+    - scikit-learn
+    - librosa
+    - scipy
+    - pandas
+    - matplotlib
+    - h5py
+    - pyyaml
+    - flask
+    - boto3

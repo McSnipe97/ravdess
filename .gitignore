@@ -1,0 +1,9 @@
+data
+models
+labels.p
+model.json
+modelJson.json
+pathData.csv
+pathFeature.csv
+.vscode
+.ipynb_checkpoints
